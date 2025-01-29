@@ -1,5 +1,5 @@
 # InstaTracer
-![InstaTracer Logo](instaTracer.png)
+![InstaTracer Logo](InstaTracer.png)
 
 InstaTracer is a powerful tool designed to help you analyze Instagram profiles. With InstaTracer, you can track who follows you, who unfollows you, and who you follow but don’t follow back.
 
